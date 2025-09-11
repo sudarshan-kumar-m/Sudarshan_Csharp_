@@ -1,0 +1,16 @@
+C:\Users\sudar\source\repos\demo\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\sudar\source\repos\demo\Delegates\bin\Debug\Delegates.exe
+C:\Users\sudar\source\repos\demo\Delegates\bin\Debug\Delegates.pdb
+C:\Users\sudar\source\repos\demo\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\sudar\source\repos\demo\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\sudar\source\repos\demo\Delegates\obj\Debug\Delegates.exe
+C:\Users\sudar\source\repos\demo\Delegates\obj\Debug\Delegates.pdb
+C:\Users\sudar\source\repos\demo\Delegates\obj\Debug\Delegates.exe.config
+C:\Users\Personel\Game\source\repos\demo\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Personel\Game\source\repos\demo\Delegates\bin\Debug\Delegates.exe
+C:\Users\Personel\Game\source\repos\demo\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Personel\Game\source\repos\demo\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\Personel\Game\source\repos\demo\Delegates\obj\Debug\Delegates.exe.config
+C:\Users\Personel\Game\source\repos\demo\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Personel\Game\source\repos\demo\Delegates\obj\Debug\Delegates.exe
+C:\Users\Personel\Game\source\repos\demo\Delegates\obj\Debug\Delegates.pdb

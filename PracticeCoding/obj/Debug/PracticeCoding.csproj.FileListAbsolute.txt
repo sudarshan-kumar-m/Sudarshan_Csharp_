@@ -1,0 +1,8 @@
+C:\Users\sudar\source\repos\demo\PracticeCoding\bin\Debug\PracticeCoding.exe.config
+C:\Users\sudar\source\repos\demo\PracticeCoding\bin\Debug\PracticeCoding.exe
+C:\Users\sudar\source\repos\demo\PracticeCoding\bin\Debug\PracticeCoding.pdb
+C:\Users\sudar\source\repos\demo\PracticeCoding\obj\Debug\PracticeCoding.csproj.AssemblyReference.cache
+C:\Users\sudar\source\repos\demo\PracticeCoding\obj\Debug\PracticeCoding.csproj.CoreCompileInputs.cache
+C:\Users\sudar\source\repos\demo\PracticeCoding\obj\Debug\PracticeCoding.exe
+C:\Users\sudar\source\repos\demo\PracticeCoding\obj\Debug\PracticeCoding.pdb
+C:\Users\sudar\source\repos\demo\PracticeCoding\obj\Debug\PracticeCoding.exe.config

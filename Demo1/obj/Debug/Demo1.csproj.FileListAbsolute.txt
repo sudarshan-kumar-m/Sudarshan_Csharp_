@@ -1,0 +1,12 @@
+C:\Users\sudar\source\repos\demo\Demo1\bin\Debug\Demo1.exe.config
+C:\Users\sudar\source\repos\demo\Demo1\bin\Debug\Demo1.exe
+C:\Users\sudar\source\repos\demo\Demo1\bin\Debug\Demo1.pdb
+C:\Users\sudar\source\repos\demo\Demo1\bin\Debug\demo.exe
+C:\Users\sudar\source\repos\demo\Demo1\bin\Debug\demo.pdb
+C:\Users\sudar\source\repos\demo\Demo1\bin\Debug\demo.exe.config
+C:\Users\sudar\source\repos\demo\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+C:\Users\sudar\source\repos\demo\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\sudar\source\repos\demo\Demo1\obj\Debug\Demo1.csproj.Up2Date
+C:\Users\sudar\source\repos\demo\Demo1\obj\Debug\Demo1.exe
+C:\Users\sudar\source\repos\demo\Demo1\obj\Debug\Demo1.pdb
+C:\Users\sudar\source\repos\demo\Demo1\obj\Debug\Demo1.exe.config

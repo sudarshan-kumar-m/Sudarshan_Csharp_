@@ -1,0 +1,8 @@
+C:\Users\sudar\source\repos\demo\Collections\bin\Debug\Collections.exe.config
+C:\Users\sudar\source\repos\demo\Collections\bin\Debug\Collections.exe
+C:\Users\sudar\source\repos\demo\Collections\bin\Debug\Collections.pdb
+C:\Users\sudar\source\repos\demo\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\sudar\source\repos\demo\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\sudar\source\repos\demo\Collections\obj\Debug\Collections.exe
+C:\Users\sudar\source\repos\demo\Collections\obj\Debug\Collections.pdb
+C:\Users\sudar\source\repos\demo\Collections\obj\Debug\Collections.exe.config
